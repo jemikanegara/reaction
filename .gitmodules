@@ -1,0 +1,12 @@
+[submodule "plugins/api-plugin-authentication"]
+	path = plugins/api-plugin-authentication
+	url = https://github.com/novayadi85/api-plugin-authentication.git
+[submodule "plugins/custom-plugin-event"]
+	path = plugins/custom-plugin-event
+	url = https://github.com/jemikanegara/custom-plugin-event
+[submodule "plugins/custom-plugin-qty"]
+	path = plugins/custom-plugin-qty
+	url = https://github.com/jemikanegara/custom-plugin-qty.git
+[submodule "plugins/custom-plugin-sub-tag"]
+	path = plugins/custom-plugin-sub-tag
+	url = https://github.com/jemikanegara/custom-plugin-sub-tag
